@@ -1,4 +1,4 @@
-# Project Title: Automate a demo fintech API by Postman and Newman
+# Project Title: Dmoney API Collection by Postman and Newman
  ## Project Summary:                                                                                                                              
  In this project, I have created a flow where the admin can log in and create users like merchant, customers, agents, and another admin. Admin can 
  perform several CRUD actions for the users. Admin can get user list, transaction list, transaction statement and admin can search user, 
