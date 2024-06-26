@@ -1,8 +1,6 @@
 # Project Title: Dmoney API Collection by Postman and Newman
  ## Project Summary:                                                                                                                              
- In this project, I have created a flow where the admin can log in and create users like merchant, customers, agents, and another admin. Admin can 
- perform several CRUD actions for the users. Admin can get user list, transaction list, transaction statement and admin can search user, 
- transaction search.                                                                                                                                 
+ In this project, I have created a flow using postman where the admin can login and create users like merchant, customers, agents, and another admin. Admin can perform several CRUD actions for the users. Admin can get user list, transaction list, transaction statement and admin can search user, transaction search.                                                                                                                                 
  System can login and check statements, payments to the merchant account and deposit money to agent account.
  Merchant can login and perform withdraw action.
  Agent can login and perform deposit and payment actions.
